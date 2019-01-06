@@ -1,0 +1,15 @@
+{
+  "name": "middleware-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
